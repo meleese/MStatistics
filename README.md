@@ -1,5 +1,5 @@
 # MStatistics
-A simple .NET 6 web api that uses a twitter sample stream  a twitter sample stream to store streamed tweets into an in memory database, and returns some basic statistics.
+A simple .NET 6 web api that uses a twitter sample stream to store streamed tweets into an in memory database, and returns some basic statistics.
 
 Note: this is a prototype using an in-memory database. In a real Production environment scaling would be needed. A VMSS would be a recommended start for this.
 

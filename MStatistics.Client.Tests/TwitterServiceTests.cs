@@ -1,11 +1,7 @@
 namespace MStatistics.Client.Tests
 {
-    [TestClass]
     public class TwitterServiceTests
     {
-        [TestMethod]
-        public void TestMethod1()
-        {
-        }
+        // Placeholder for additional tests for TwitterService
     }
 }

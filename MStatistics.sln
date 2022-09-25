@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MStatistics.Client.Tests", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MStatistics.Data.Tests", "MStatistics.Data.Tests\MStatistics.Data.Tests.csproj", "{5C34365F-3625-4E6C-BE7D-A9677F202F70}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{1275D239-63BC-4B08-8A44-A866AEC2158B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{5C34365F-3625-4E6C-BE7D-A9677F202F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C34365F-3625-4E6C-BE7D-A9677F202F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C34365F-3625-4E6C-BE7D-A9677F202F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1275D239-63BC-4B08-8A44-A866AEC2158B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1275D239-63BC-4B08-8A44-A866AEC2158B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1275D239-63BC-4B08-8A44-A866AEC2158B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1275D239-63BC-4B08-8A44-A866AEC2158B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

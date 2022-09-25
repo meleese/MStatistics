@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  mstatistics.webapi:
+    image: ${DOCKER_REGISTRY-}mstatisticswebapi
+    build:
+      context: .
+      dockerfile: MStatistics/Dockerfile
